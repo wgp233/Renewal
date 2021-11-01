@@ -1,6 +1,6 @@
 public class Test {
     @org.junit.Test
     public void test(){
-        System.out.println("master");
+        System.out.println("test");
     }
 }
